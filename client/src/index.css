@@ -75,3 +75,16 @@ body {
   color: red;
   text-align: center;
 }
+
+
+.update-form{
+  width: 500px;
+  padding: 30px;
+  margin: 50px auto;
+}
+
+.update-form input[type='text'], .update-form input[type='number']{
+  display: block;
+  width: 100%;
+  padding: 7px;
+}
